@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AfficherDémonstration</string>
+    <string name="download_video">Télécharger la vidéo de démonstration</string>
+    <string name="delete_video">Supprimer la vidéo de démonstration</string>
+    <string name="download_failed">Échec du téléchargement</string>
+    <string name="download_successful">Téléchargement réussi</string>
+    <string name="updatevideo_successful">Mise à jour de la vidéo de présentation réussie</string>
+    <string name="updatevideo_failed">Échec de la mise à jour de la vidéo de présentation</string>
+    <string name="Network_not_available">Réseau non disponible</string>
+    <string name="update_from_local">Mettre à jour la vidéo de démonstration à partir des fichiers locaux</string>
+    <string name="reset_to_default">Réinitialiser à la vidéo de démonstration par défaut</string>
+</resources>

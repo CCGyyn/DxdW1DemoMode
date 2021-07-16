@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DisplayDemo</string>
+    <string name="download_video">Download demo video</string>
+    <string name="delete_video">Delete demo video</string>
+    <string name="download_failed">Download failed!</string>
+    <string name="download_successful">Download successful!</string>
+    <string name="updatevideo_successful">Display video update successful !</string>
+    <string name="updatevideo_failed">Display video update failed !</string>
+    <string name="Network_not_available">Network not available.</string>
+    <string name="update_from_local">Update demo video from local</string>
+    <string name="reset_to_default">Reset to default demo video</string>
+
+    <string name="factory_restore_tile">Factory Restore</string>
+    <string name="factory_restore_message">"Are you sure you will restore the factory Settings?"</string>
+    <string name="batterywarning">Please make sure the battery at least 30%.</string>
+    <string name="postive_button">Confirmed</string>
+    <string name="negative_button">Cancel</string>
+
+</resources>

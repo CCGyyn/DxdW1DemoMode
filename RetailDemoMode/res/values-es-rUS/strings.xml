@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DisplayDemo</string>
+    <string name="download_video">Descargar video de demostración</string>
+    <string name="delete_video">Eliminar video de demostración</string>
+    <string name="download_failed">Falló la descarga</string>
+    <string name="download_successful">Se completó la descarga</string>
+    <string name="updatevideo_successful">Se pudo mostrar la actualización de video</string>
+    <string name="updatevideo_failed">No se pudo mostrar la actualización de video</string>
+    <string name="Network_not_available">Red no disponible</string>
+    <string name="update_from_local">Actualizar el video de demostración desde local</string>
+    <string name="reset_to_default">Restablecer el video de demostración predeterminado</string>
+
+    <string name="factory_restore_tile">Restaurar fábrica</string>
+    <string name="factory_restore_message">"¿Estás seguro de que restaurarás la configuración de fábrica?"</string>
+    <string name="batterywarning">Asegúrese de que la batería sea al menos del 30%.</string>
+    <string name="postive_button">Confirmado</string>
+    <string name="negative_button">Cancelar</string>
+</resources>
